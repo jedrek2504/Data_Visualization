@@ -1,0 +1,5 @@
+bokeh
+numpy==1.26.4
+pandas==2.2.2
+ipython==8.33.0
+notebook==7.2.0
